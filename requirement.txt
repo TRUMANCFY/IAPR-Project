@@ -1,0 +1,8 @@
+keras
+tensorflow
+skimage
+matplotlib
+cv2
+scipy
+numpy
+sklearn
