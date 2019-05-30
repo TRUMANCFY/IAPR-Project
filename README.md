@@ -12,7 +12,7 @@ Report of the result on the competition
 - Best F1 score: 0.734
 
 
-Sorry for the inconvenience that we have submissions from two teams: 'Group2' and 'Group2 Method3'. Please, just ignore the second team! Thank you so much!
+Sorry for the inconvenience that we have submissions from two team names: 'Group2' and 'Group2 Method3'. Please, just ignore the second one! Thank you so much!
 
 # Environmental Requirement:
 Packages:
