@@ -9,7 +9,7 @@ Report of the result on the test @IOU=0.3
 
 Report of the result on the competition
 - Group Name: Group2
-- Best F1 score: 0.734
+- Best F1 score: 0.734 (ranked 2nd place in the competation)
 
 
 Sorry for the inconvenience that we have submissions from two team names: 'Group2' and 'Group2 Method3'. Please, just ignore the second one! Thank you so much!
